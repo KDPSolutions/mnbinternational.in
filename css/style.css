@@ -394,8 +394,8 @@ blockquote {
   margin-top: -81px;
   padding-top: 200px;
   padding-bottom: 160px;
-  background-image: -webkit-gradient(linear, left top, right top, color-stop(17%, #032d5f), color-stop(52%, rgba(2, 24, 52, 0.54)), to(transparent)), url("63a5907c0f3ddd0869840f9a_Banner-image.jpg");
-  background-image: linear-gradient(90deg, #032d5f 17%, rgba(2, 24, 52, 0.54) 52%, transparent), url("63a5907c0f3ddd0869840f9a_Banner-image.jpg");
+  background-image: -webkit-gradient(linear, left top, right top, color-stop(17%, #032d5f), color-stop(52%, rgba(2, 24, 52, 0.54)), to(transparent)), url("../assets/images/Banner-image.jpg");
+  background-image: linear-gradient(90deg, #032d5f 17%, rgba(2, 24, 52, 0.54) 52%, transparent), url("../assets/images/Banner-image.jpg");
   background-position: 0px 0px, 100% 100%;
   background-size: auto, auto;
   background-repeat: repeat, repeat-x;
@@ -771,7 +771,7 @@ blockquote {
   position: relative;
   padding-top: 180px;
   padding-bottom: 180px;
-  background-image: url("assets/images/footer-image.jpg");
+  background-image: url("../assets/images/footer-image.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1009,7 +1009,7 @@ blockquote {
   padding-top: 250px;
   padding-bottom: 220px;
   background-color: #091242;
-  background-image: url("assets/images/home-banner-image.jpg");
+  background-image: url("../assets/images/home-banner-image.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1556,7 +1556,7 @@ blockquote {
   -ms-flex-direction: column;
   flex-direction: column;
   background-color: #f4f4f4;
-  background-image: url("assets/images/Map-BG.png");
+  background-image: url("../assets/images/Map-BG.png");
   background-position: 50% 100%;
   background-size: auto;
   background-repeat: no-repeat;
@@ -2288,8 +2288,8 @@ blockquote {
   margin-top: -81px;
   padding-top: 200px;
   padding-bottom: 130px;
-  background-image: -webkit-gradient(linear, left top, right top, color-stop(18%, #032d5f), color-stop(40%, rgba(3, 45, 95, 0.56)), to(rgba(3, 45, 95, 0.2))), url("63b3c992e0edaff90ffed922_service-banner-image.jpg");
-  background-image: linear-gradient(90deg, #032d5f 18%, rgba(3, 45, 95, 0.56) 40%, rgba(3, 45, 95, 0.2)), url("63b3c992e0edaff90ffed922_service-banner-image.jpg");
+  background-image: -webkit-gradient(linear, left top, right top, color-stop(18%, #032d5f), color-stop(40%, rgba(3, 45, 95, 0.56)), to(rgba(3, 45, 95, 0.2))), url("../assets/images/service-banner-image.jpg");
+  background-image: linear-gradient(90deg, #032d5f 18%, rgba(3, 45, 95, 0.56) 40%, rgba(3, 45, 95, 0.2)), url("../assets/images/service-banner-image.jpg");
   background-position: 0px 0px, 0% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -3622,7 +3622,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
+  background-image: url("../assets/icons/background-image.svg");
   background-position: 50% 50%;
   background-size: auto;
 }
@@ -3821,8 +3821,8 @@ blockquote {
   }
 
   .service-image-wrap {
-    background-image: -webkit-gradient(linear, left bottom, left top, from(#091242), color-stop(59%, rgba(65, 72, 109, 0.36)), color-stop(85%, hsla(0, 0%, 100%, 0)), to(rgba(187, 190, 203, 0.13))), url("assets/images/service-image.jpg");
-    background-image: linear-gradient(0deg, #091242, rgba(65, 72, 109, 0.36) 59%, hsla(0, 0%, 100%, 0) 85%, rgba(187, 190, 203, 0.13)), url("assets/images/service-image.jpg");
+    background-image: -webkit-gradient(linear, left bottom, left top, from(#091242), color-stop(59%, rgba(65, 72, 109, 0.36)), color-stop(85%, hsla(0, 0%, 100%, 0)), to(rgba(187, 190, 203, 0.13))), url("../assets/images/service-image.jpg");
+    background-image: linear-gradient(0deg, #091242, rgba(65, 72, 109, 0.36) 59%, hsla(0, 0%, 100%, 0) 85%, rgba(187, 190, 203, 0.13)), url("../assets/images/service-image.jpg");
     background-position: 0px 0px, 0px 0px;
     background-size: auto, auto;
   }
