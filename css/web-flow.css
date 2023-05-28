@@ -253,7 +253,7 @@
      display: flex;
      max-width: 100%;
      margin-right: auto;
-     margin-left: auto;
+     margin-left: 8%;
      padding-right: 20px;
      padding-left: 20px;
      -webkit-box-pack: justify;
@@ -280,7 +280,7 @@
    }
    
    .navigation-link:hover {
-     border-bottom-color: #fff;
+     border-bottom-color: black;
    }
    
    .navigation-link.w--current {
@@ -307,7 +307,7 @@
      margin-top: auto;
      margin-right: 30px;
      margin-bottom: auto;
-     background-color: hsla(0, 0%, 100%, 0.2);
+     background-color: black;
    }
    
    .navigation-button-wrap {
@@ -3742,9 +3742,9 @@
        display: -webkit-flex;
        display: -ms-flexbox;
        display: flex;
-       max-width: 1200px;
+       max-width: 800px;
        margin-right: auto;
-       margin-left: auto;
+       margin-left: 8%;
        padding-right: 0px;
        padding-left: 0px;
        -webkit-box-pack: justify;
@@ -4206,7 +4206,7 @@
      }
    
      .navigation-link:hover {
-       border-bottom-color: hsla(0, 0%, 100%, 0);
+       border-bottom-color: black;
        color: #ffbe34;
      }
    

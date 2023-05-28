@@ -262,7 +262,7 @@ blockquote {
   display: flex;
   max-width: 100%;
   margin-right: auto;
-  margin-left: auto;
+  margin-left: 8%;
   padding-right: 20px;
   padding-left: 20px;
   -webkit-box-pack: justify;
@@ -289,7 +289,7 @@ blockquote {
 }
 
 .navigation-link:hover {
-  border-bottom-color: #fff;
+  border-bottom-color: black;
 }
 
 .navigation-link.w--current {
@@ -316,7 +316,7 @@ blockquote {
   margin-top: auto;
   margin-right: 30px;
   margin-bottom: auto;
-  background-color: hsla(0, 0%, 100%, 0.2);
+  background-color: black;
 }
 
 .navigation-button-wrap {
@@ -1018,7 +1018,7 @@ blockquote {
   padding-top: 250px;
   padding-bottom: 220px;
   background-color: #091242;
-  background-image: url("../assets/images/home-banner-image.jpg");
+  background-image: url("../assets/images/william-william-NndKt2kF1L4-unsplash\ \(1\).jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3751,9 +3751,9 @@ blockquote {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    max-width: 1200px;
+    max-width: 800px;
     margin-right: auto;
-    margin-left: auto;
+    margin-left: 8%;
     padding-right: 0px;
     padding-left: 0px;
     -webkit-box-pack: justify;
@@ -4215,7 +4215,7 @@ blockquote {
   }
 
   .navigation-link:hover {
-    border-bottom-color: hsla(0, 0%, 100%, 0);
+    border-bottom-color: black;
     color: #ffbe34;
   }
 
